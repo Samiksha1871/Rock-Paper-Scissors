@@ -26,9 +26,8 @@ Reset button makes scores zero and performs the function of play again.
 Game Rules button when clicked shows game rules. It displays a bootstrap modal.
 
 ### Hosted Link (Github) :
-https://akash-rajmane.github.io/Rock-Paper-Scissor/
+https://samiksha1871.github.io/Rock-Paper-Scissors
 
-### Hosted Link (Netlify) :
-https://quizzical-bartik-629631.netlify.app/
+
 
 
